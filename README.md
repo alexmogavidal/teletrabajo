@@ -1,0 +1,2 @@
+# teletrabajo
+Aunque sea de rebote, y por situación extrema, la realidad y la lógica han derribado los muros de contención y la zona de confort donde residían la mayor parte de los directivos, empresas y administraciones públicas hasta el momento respecto al Teletrabajo. Dejando, al margen, el análisis y la opinión personal de los antecedentes, urge ponernos a trabajar para implementar con la mayor rapidez, eficacia y eficiencia un sistema de Teletrabajo. 
